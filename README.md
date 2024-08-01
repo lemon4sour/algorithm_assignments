@@ -1,5 +1,6 @@
 # Algortihms and Programming Assignments
 This is an archive of a collection of algorithms assignments.
+All assignments in this archive were made between the years 2021-2022.
 
 ## Assignment 1 - Calendar
 A C# program that lists off days with n many gaps in between. A good
@@ -14,3 +15,11 @@ matches wins and gets placed on the leaderboard. A good introduction to arrays.
 A C# program where you search for words that match a regex. A good introduction
 to state machines. "-" defined as a singular character, "*" defined as a
 wildcard.
+
+## Assignment 4 - Wheel of Fortune
+A Java program that simulates a wheel of fortune game played automatically.
+A good introduction to stacks and queues.
+
+## Assignment 5 - Yahtzee
+A Java program that simulates a yahtzee game played automatically.
+A good introduction to linked lists.
